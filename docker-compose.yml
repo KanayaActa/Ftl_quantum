@@ -1,0 +1,9 @@
+services:
+  qiskit:
+    build: .
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./notebooks:/app
+    env_file:
+      - .env

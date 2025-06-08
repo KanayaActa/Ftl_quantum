@@ -1,0 +1,8 @@
+notebook
+python-dotenv
+qiskit-ibm-provider
+qiskit
+qiskit-ibm-runtime
+qiskit-aer
+pylatexenc
+matplotlib
